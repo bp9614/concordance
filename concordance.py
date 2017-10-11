@@ -40,8 +40,8 @@ def get_concordance(lines, dictionary, output=None):
 
 def main():
     lines, dictionary = split_file('sample/greenEggs.txt')
-
-    get_concordance(lines, dictionary, 'output.txt')
+    exclude(dictionary)
+    get_concordance(lines, dictionary, 'sample/greenEggsOutput.txt')
 
 
 if __name__ == '__main__':
