@@ -1,0 +1,1022 @@
+1 I am Sam
+2 I am Sam
+3 Sam I am
+5 That Sam I am!
+6 That Sam I am!
+7 I do not like that Sam I am!
+9 Do you like green eggs and ham?
+11 I do not like them, Sam I am.
+12 I do not like green eggs and ham.
+14 Would you like them here or there?
+16 I would not like them here or there.
+17 I would not like them anywhere.
+18 I do not like green eggs and ham.
+19 I do not like them, Sam I am.
+21 Would you like them in a house?
+22 Would you like them with a mouse?
+24 I do not like them in a house.
+25 I do not like them with a mouse.
+26 I do not like them here or there.
+27 I do not like them anywhere.
+28 I do not like green eggs and ham.
+29 I do not like them, Sam I am.
+31 Would you eat them in a box?
+32 Would you eat them with a fox?
+34 Not in a box.
+35 Not with a fox.
+36 Not in a house.
+37 Not with a mouse.
+38 I would not eat them here or there.
+39 I would not eat them anywhere.
+40 I would not eat green eggs and ham.
+41 I do not like them, Sam I am.
+43 Would you? 
+44 Could you?
+45 In a car?
+46 Eat them! 
+47 Eat them!
+48 Here they are.
+50 I would not, could not, in a car.
+52 You may like them.
+53 You will see.
+54 You may like them in a tree!
+56 I would not, could not in a tree.
+57 Not in a car! You let me be!
+59 I do not like them in a box.
+60 I do not like them with a fox.
+61 I do not like them in a house.
+62 I do not like them with a mouse.
+63 I do not like them here or there.
+64 I do not like them anywhere.
+65 I do not like green eggs and ham.
+66 I do not like them, Sam I am.
+68 A train! 
+69 A train!
+70 A train! 
+71 A train!
+72 Could you, would you, on a train?
+74 Not on a train! 
+75 Not in a tree!
+76 Not in a car! 
+77 Sam! Let me be!
+79 I would not, could not, in a box.
+80 I could not, would not, with a fox.
+81 I will not eat them with a mouse.
+82 I will not eat them in a house.
+83 i will not eat them here or there.
+84 I will not eat them anywhere.
+85 I do not eat green eggs and ham.
+86 I do not like them, Sam I am.
+88 Say!
+89 In the dark?
+90 Here in the dark!
+91 Would you, could you, in the dark?
+93 I would not, could not, in the dark.
+95 Would you, could you, in the rain?
+97 I would not, could not, in the rain.
+98 Not in the dark. 
+99 Not on a train.
+100 Not in a car. 
+101 Not in a tree.
+102 I do not like them, Sam, you see.
+103 Not in a house. 
+104 Not in a box.
+105 Not with a mouse. 
+106 Not with a fox.
+107 I will not eat them here or there.
+108 I do not like them anywhere!
+110 You do not like green eggs and ham?
+112 I do not like them, Sam I am.
+114 Could you, would you with a goat?
+116 I would not, could not, with a goat!
+118 Would you, could you, on a boat?
+120 I could not, would not, on a boat.
+121 I will not, will not, with a goat.
+122 I will not eat them in the rain.
+123 I will not eat them on a train.
+124 Not in the dark! 
+125 Not in a tree!
+126 Not in a car! 
+127 You let me be!
+128 I do not like them in a box.
+129 I do not like them with a fox.
+130 I will not eat them in a house.
+131 I do not like them with a mouse.
+132 I do not like them here or there.
+133 I do not like them ANYWHERE
+135 I do not like green eggs and ham!
+137 I do not like them, Sam I am.
+139 You do not like them.
+140 So you say.
+141 Try them! 
+142 Try them!
+143 And you may.
+144 Try them and you may, I say.
+146 Sam!
+147 If you will let me be, I will try them.
+148 You will see.
+150 Say!
+151 I like green eggs and ham!
+152 I do! 
+153 I like them, Sam I am!
+154 And I would eat them in a boat.
+155 And I would eat them with a goat...
+157 And I will eat them in the rain.
+158 And in the dark. 
+159 And on a train.
+160 And in a car. 
+161 And in a tree.
+162 They are so good, so good, you see!
+164 So I will eat them in a box.
+165 And I will eat them with a fox.
+166 And I will eat them in a house.
+167 And I will eat them with a mouse.
+168 And I will eat them here and there.
+169 Say! I will eat them ANYWHERE!
+171 I do so like green eggs and ham!
+172 Thank you!
+173 Thank you, Sam I am!
+
+a:
+21 Would you like them in a house?
+22 Would you like them with a mouse?
+24 I do not like them in a house.
+25 I do not like them with a mouse.
+31 Would you eat them in a box?
+32 Would you eat them with a fox?
+34 Not in a box.
+35 Not with a fox.
+36 Not in a house.
+37 Not with a mouse.
+45 In a car?
+50 I would not, could not, in a car.
+54 You may like them in a tree!
+56 I would not, could not in a tree.
+57 Not in a car! You let me be!
+59 I do not like them in a box.
+60 I do not like them with a fox.
+61 I do not like them in a house.
+62 I do not like them with a mouse.
+68 A train! 
+69 A train!
+70 A train! 
+71 A train!
+72 Could you, would you, on a train?
+74 Not on a train! 
+75 Not in a tree!
+76 Not in a car! 
+79 I would not, could not, in a box.
+80 I could not, would not, with a fox.
+81 I will not eat them with a mouse.
+82 I will not eat them in a house.
+99 Not on a train.
+100 Not in a car. 
+101 Not in a tree.
+103 Not in a house. 
+104 Not in a box.
+105 Not with a mouse. 
+106 Not with a fox.
+114 Could you, would you with a goat?
+116 I would not, could not, with a goat!
+118 Would you, could you, on a boat?
+120 I could not, would not, on a boat.
+121 I will not, will not, with a goat.
+123 I will not eat them on a train.
+125 Not in a tree!
+126 Not in a car! 
+128 I do not like them in a box.
+129 I do not like them with a fox.
+130 I will not eat them in a house.
+131 I do not like them with a mouse.
+154 And I would eat them in a boat.
+155 And I would eat them with a goat...
+159 And on a train.
+160 And in a car. 
+161 And in a tree.
+164 So I will eat them in a box.
+165 And I will eat them with a fox.
+166 And I will eat them in a house.
+167 And I will eat them with a mouse.
+
+am:
+1 I am Sam
+2 I am Sam
+3 Sam I am
+5 That Sam I am!
+6 That Sam I am!
+7 I do not like that Sam I am!
+11 I do not like them, Sam I am.
+19 I do not like them, Sam I am.
+29 I do not like them, Sam I am.
+41 I do not like them, Sam I am.
+66 I do not like them, Sam I am.
+86 I do not like them, Sam I am.
+112 I do not like them, Sam I am.
+137 I do not like them, Sam I am.
+153 I like them, Sam I am!
+173 Thank you, Sam I am!
+
+and:
+9 Do you like green eggs and ham?
+12 I do not like green eggs and ham.
+18 I do not like green eggs and ham.
+28 I do not like green eggs and ham.
+40 I would not eat green eggs and ham.
+65 I do not like green eggs and ham.
+85 I do not eat green eggs and ham.
+110 You do not like green eggs and ham?
+135 I do not like green eggs and ham!
+143 And you may.
+144 Try them and you may, I say.
+151 I like green eggs and ham!
+154 And I would eat them in a boat.
+155 And I would eat them with a goat...
+157 And I will eat them in the rain.
+158 And in the dark. 
+159 And on a train.
+160 And in a car. 
+161 And in a tree.
+165 And I will eat them with a fox.
+166 And I will eat them in a house.
+167 And I will eat them with a mouse.
+168 And I will eat them here and there.
+171 I do so like green eggs and ham!
+
+anywhere:
+17 I would not like them anywhere.
+27 I do not like them anywhere.
+39 I would not eat them anywhere.
+64 I do not like them anywhere.
+84 I will not eat them anywhere.
+108 I do not like them anywhere!
+133 I do not like them ANYWHERE
+169 Say! I will eat them ANYWHERE!
+
+are:
+48 Here they are.
+162 They are so good, so good, you see!
+
+be:
+57 Not in a car! You let me be!
+77 Sam! Let me be!
+127 You let me be!
+147 If you will let me be, I will try them.
+
+boat:
+118 Would you, could you, on a boat?
+120 I could not, would not, on a boat.
+154 And I would eat them in a boat.
+
+box:
+31 Would you eat them in a box?
+34 Not in a box.
+59 I do not like them in a box.
+79 I would not, could not, in a box.
+104 Not in a box.
+128 I do not like them in a box.
+164 So I will eat them in a box.
+
+car:
+45 In a car?
+50 I would not, could not, in a car.
+57 Not in a car! You let me be!
+76 Not in a car! 
+100 Not in a car. 
+126 Not in a car! 
+160 And in a car. 
+
+could:
+44 Could you?
+50 I would not, could not, in a car.
+56 I would not, could not in a tree.
+72 Could you, would you, on a train?
+79 I would not, could not, in a box.
+80 I could not, would not, with a fox.
+91 Would you, could you, in the dark?
+93 I would not, could not, in the dark.
+95 Would you, could you, in the rain?
+97 I would not, could not, in the rain.
+114 Could you, would you with a goat?
+116 I would not, could not, with a goat!
+118 Would you, could you, on a boat?
+120 I could not, would not, on a boat.
+
+dark:
+89 In the dark?
+90 Here in the dark!
+91 Would you, could you, in the dark?
+93 I would not, could not, in the dark.
+98 Not in the dark. 
+124 Not in the dark! 
+158 And in the dark. 
+
+do:
+7 I do not like that Sam I am!
+9 Do you like green eggs and ham?
+11 I do not like them, Sam I am.
+12 I do not like green eggs and ham.
+18 I do not like green eggs and ham.
+19 I do not like them, Sam I am.
+24 I do not like them in a house.
+25 I do not like them with a mouse.
+26 I do not like them here or there.
+27 I do not like them anywhere.
+28 I do not like green eggs and ham.
+29 I do not like them, Sam I am.
+41 I do not like them, Sam I am.
+59 I do not like them in a box.
+60 I do not like them with a fox.
+61 I do not like them in a house.
+62 I do not like them with a mouse.
+63 I do not like them here or there.
+64 I do not like them anywhere.
+65 I do not like green eggs and ham.
+66 I do not like them, Sam I am.
+85 I do not eat green eggs and ham.
+86 I do not like them, Sam I am.
+102 I do not like them, Sam, you see.
+108 I do not like them anywhere!
+110 You do not like green eggs and ham?
+112 I do not like them, Sam I am.
+128 I do not like them in a box.
+129 I do not like them with a fox.
+131 I do not like them with a mouse.
+132 I do not like them here or there.
+133 I do not like them ANYWHERE
+135 I do not like green eggs and ham!
+137 I do not like them, Sam I am.
+139 You do not like them.
+152 I do! 
+171 I do so like green eggs and ham!
+
+eat:
+31 Would you eat them in a box?
+32 Would you eat them with a fox?
+38 I would not eat them here or there.
+39 I would not eat them anywhere.
+40 I would not eat green eggs and ham.
+46 Eat them! 
+47 Eat them!
+81 I will not eat them with a mouse.
+82 I will not eat them in a house.
+83 i will not eat them here or there.
+84 I will not eat them anywhere.
+85 I do not eat green eggs and ham.
+107 I will not eat them here or there.
+122 I will not eat them in the rain.
+123 I will not eat them on a train.
+130 I will not eat them in a house.
+154 And I would eat them in a boat.
+155 And I would eat them with a goat...
+157 And I will eat them in the rain.
+164 So I will eat them in a box.
+165 And I will eat them with a fox.
+166 And I will eat them in a house.
+167 And I will eat them with a mouse.
+168 And I will eat them here and there.
+169 Say! I will eat them ANYWHERE!
+
+eggs:
+9 Do you like green eggs and ham?
+12 I do not like green eggs and ham.
+18 I do not like green eggs and ham.
+28 I do not like green eggs and ham.
+40 I would not eat green eggs and ham.
+65 I do not like green eggs and ham.
+85 I do not eat green eggs and ham.
+110 You do not like green eggs and ham?
+135 I do not like green eggs and ham!
+151 I like green eggs and ham!
+171 I do so like green eggs and ham!
+
+fox:
+32 Would you eat them with a fox?
+35 Not with a fox.
+60 I do not like them with a fox.
+80 I could not, would not, with a fox.
+106 Not with a fox.
+129 I do not like them with a fox.
+165 And I will eat them with a fox.
+
+goat:
+114 Could you, would you with a goat?
+116 I would not, could not, with a goat!
+121 I will not, will not, with a goat.
+155 And I would eat them with a goat...
+
+good:
+162 They are so good, so good, you see!
+
+green:
+9 Do you like green eggs and ham?
+12 I do not like green eggs and ham.
+18 I do not like green eggs and ham.
+28 I do not like green eggs and ham.
+40 I would not eat green eggs and ham.
+65 I do not like green eggs and ham.
+85 I do not eat green eggs and ham.
+110 You do not like green eggs and ham?
+135 I do not like green eggs and ham!
+151 I like green eggs and ham!
+171 I do so like green eggs and ham!
+
+ham:
+9 Do you like green eggs and ham?
+12 I do not like green eggs and ham.
+18 I do not like green eggs and ham.
+28 I do not like green eggs and ham.
+40 I would not eat green eggs and ham.
+65 I do not like green eggs and ham.
+85 I do not eat green eggs and ham.
+110 You do not like green eggs and ham?
+135 I do not like green eggs and ham!
+151 I like green eggs and ham!
+171 I do so like green eggs and ham!
+
+here:
+14 Would you like them here or there?
+16 I would not like them here or there.
+26 I do not like them here or there.
+38 I would not eat them here or there.
+48 Here they are.
+63 I do not like them here or there.
+83 i will not eat them here or there.
+90 Here in the dark!
+107 I will not eat them here or there.
+132 I do not like them here or there.
+168 And I will eat them here and there.
+
+house:
+21 Would you like them in a house?
+24 I do not like them in a house.
+36 Not in a house.
+61 I do not like them in a house.
+82 I will not eat them in a house.
+103 Not in a house. 
+130 I will not eat them in a house.
+166 And I will eat them in a house.
+
+i:
+1 I am Sam
+2 I am Sam
+3 Sam I am
+5 That Sam I am!
+6 That Sam I am!
+7 I do not like that Sam I am!
+11 I do not like them, Sam I am.
+12 I do not like green eggs and ham.
+16 I would not like them here or there.
+17 I would not like them anywhere.
+18 I do not like green eggs and ham.
+19 I do not like them, Sam I am.
+24 I do not like them in a house.
+25 I do not like them with a mouse.
+26 I do not like them here or there.
+27 I do not like them anywhere.
+28 I do not like green eggs and ham.
+29 I do not like them, Sam I am.
+38 I would not eat them here or there.
+39 I would not eat them anywhere.
+40 I would not eat green eggs and ham.
+41 I do not like them, Sam I am.
+50 I would not, could not, in a car.
+56 I would not, could not in a tree.
+59 I do not like them in a box.
+60 I do not like them with a fox.
+61 I do not like them in a house.
+62 I do not like them with a mouse.
+63 I do not like them here or there.
+64 I do not like them anywhere.
+65 I do not like green eggs and ham.
+66 I do not like them, Sam I am.
+79 I would not, could not, in a box.
+80 I could not, would not, with a fox.
+81 I will not eat them with a mouse.
+82 I will not eat them in a house.
+83 i will not eat them here or there.
+84 I will not eat them anywhere.
+85 I do not eat green eggs and ham.
+86 I do not like them, Sam I am.
+93 I would not, could not, in the dark.
+97 I would not, could not, in the rain.
+102 I do not like them, Sam, you see.
+107 I will not eat them here or there.
+108 I do not like them anywhere!
+112 I do not like them, Sam I am.
+116 I would not, could not, with a goat!
+120 I could not, would not, on a boat.
+121 I will not, will not, with a goat.
+122 I will not eat them in the rain.
+123 I will not eat them on a train.
+128 I do not like them in a box.
+129 I do not like them with a fox.
+130 I will not eat them in a house.
+131 I do not like them with a mouse.
+132 I do not like them here or there.
+133 I do not like them ANYWHERE
+135 I do not like green eggs and ham!
+137 I do not like them, Sam I am.
+144 Try them and you may, I say.
+147 If you will let me be, I will try them.
+151 I like green eggs and ham!
+152 I do! 
+153 I like them, Sam I am!
+154 And I would eat them in a boat.
+155 And I would eat them with a goat...
+157 And I will eat them in the rain.
+164 So I will eat them in a box.
+165 And I will eat them with a fox.
+166 And I will eat them in a house.
+167 And I will eat them with a mouse.
+168 And I will eat them here and there.
+169 Say! I will eat them ANYWHERE!
+171 I do so like green eggs and ham!
+173 Thank you, Sam I am!
+
+if:
+147 If you will let me be, I will try them.
+
+in:
+21 Would you like them in a house?
+24 I do not like them in a house.
+31 Would you eat them in a box?
+34 Not in a box.
+36 Not in a house.
+45 In a car?
+50 I would not, could not, in a car.
+54 You may like them in a tree!
+56 I would not, could not in a tree.
+57 Not in a car! You let me be!
+59 I do not like them in a box.
+61 I do not like them in a house.
+75 Not in a tree!
+76 Not in a car! 
+79 I would not, could not, in a box.
+82 I will not eat them in a house.
+89 In the dark?
+90 Here in the dark!
+91 Would you, could you, in the dark?
+93 I would not, could not, in the dark.
+95 Would you, could you, in the rain?
+97 I would not, could not, in the rain.
+98 Not in the dark. 
+100 Not in a car. 
+101 Not in a tree.
+103 Not in a house. 
+104 Not in a box.
+122 I will not eat them in the rain.
+124 Not in the dark! 
+125 Not in a tree!
+126 Not in a car! 
+128 I do not like them in a box.
+130 I will not eat them in a house.
+154 And I would eat them in a boat.
+157 And I will eat them in the rain.
+158 And in the dark. 
+160 And in a car. 
+161 And in a tree.
+164 So I will eat them in a box.
+166 And I will eat them in a house.
+
+let:
+57 Not in a car! You let me be!
+77 Sam! Let me be!
+127 You let me be!
+147 If you will let me be, I will try them.
+
+like:
+7 I do not like that Sam I am!
+9 Do you like green eggs and ham?
+11 I do not like them, Sam I am.
+12 I do not like green eggs and ham.
+14 Would you like them here or there?
+16 I would not like them here or there.
+17 I would not like them anywhere.
+18 I do not like green eggs and ham.
+19 I do not like them, Sam I am.
+21 Would you like them in a house?
+22 Would you like them with a mouse?
+24 I do not like them in a house.
+25 I do not like them with a mouse.
+26 I do not like them here or there.
+27 I do not like them anywhere.
+28 I do not like green eggs and ham.
+29 I do not like them, Sam I am.
+41 I do not like them, Sam I am.
+52 You may like them.
+54 You may like them in a tree!
+59 I do not like them in a box.
+60 I do not like them with a fox.
+61 I do not like them in a house.
+62 I do not like them with a mouse.
+63 I do not like them here or there.
+64 I do not like them anywhere.
+65 I do not like green eggs and ham.
+66 I do not like them, Sam I am.
+86 I do not like them, Sam I am.
+102 I do not like them, Sam, you see.
+108 I do not like them anywhere!
+110 You do not like green eggs and ham?
+112 I do not like them, Sam I am.
+128 I do not like them in a box.
+129 I do not like them with a fox.
+131 I do not like them with a mouse.
+132 I do not like them here or there.
+133 I do not like them ANYWHERE
+135 I do not like green eggs and ham!
+137 I do not like them, Sam I am.
+139 You do not like them.
+151 I like green eggs and ham!
+153 I like them, Sam I am!
+171 I do so like green eggs and ham!
+
+may:
+52 You may like them.
+54 You may like them in a tree!
+143 And you may.
+144 Try them and you may, I say.
+
+me:
+57 Not in a car! You let me be!
+77 Sam! Let me be!
+127 You let me be!
+147 If you will let me be, I will try them.
+
+mouse:
+22 Would you like them with a mouse?
+25 I do not like them with a mouse.
+37 Not with a mouse.
+62 I do not like them with a mouse.
+81 I will not eat them with a mouse.
+105 Not with a mouse. 
+131 I do not like them with a mouse.
+167 And I will eat them with a mouse.
+
+not:
+7 I do not like that Sam I am!
+11 I do not like them, Sam I am.
+12 I do not like green eggs and ham.
+16 I would not like them here or there.
+17 I would not like them anywhere.
+18 I do not like green eggs and ham.
+19 I do not like them, Sam I am.
+24 I do not like them in a house.
+25 I do not like them with a mouse.
+26 I do not like them here or there.
+27 I do not like them anywhere.
+28 I do not like green eggs and ham.
+29 I do not like them, Sam I am.
+34 Not in a box.
+35 Not with a fox.
+36 Not in a house.
+37 Not with a mouse.
+38 I would not eat them here or there.
+39 I would not eat them anywhere.
+40 I would not eat green eggs and ham.
+41 I do not like them, Sam I am.
+50 I would not, could not, in a car.
+56 I would not, could not in a tree.
+57 Not in a car! You let me be!
+59 I do not like them in a box.
+60 I do not like them with a fox.
+61 I do not like them in a house.
+62 I do not like them with a mouse.
+63 I do not like them here or there.
+64 I do not like them anywhere.
+65 I do not like green eggs and ham.
+66 I do not like them, Sam I am.
+74 Not on a train! 
+75 Not in a tree!
+76 Not in a car! 
+79 I would not, could not, in a box.
+80 I could not, would not, with a fox.
+81 I will not eat them with a mouse.
+82 I will not eat them in a house.
+83 i will not eat them here or there.
+84 I will not eat them anywhere.
+85 I do not eat green eggs and ham.
+86 I do not like them, Sam I am.
+93 I would not, could not, in the dark.
+97 I would not, could not, in the rain.
+98 Not in the dark. 
+99 Not on a train.
+100 Not in a car. 
+101 Not in a tree.
+102 I do not like them, Sam, you see.
+103 Not in a house. 
+104 Not in a box.
+105 Not with a mouse. 
+106 Not with a fox.
+107 I will not eat them here or there.
+108 I do not like them anywhere!
+110 You do not like green eggs and ham?
+112 I do not like them, Sam I am.
+116 I would not, could not, with a goat!
+120 I could not, would not, on a boat.
+121 I will not, will not, with a goat.
+122 I will not eat them in the rain.
+123 I will not eat them on a train.
+124 Not in the dark! 
+125 Not in a tree!
+126 Not in a car! 
+128 I do not like them in a box.
+129 I do not like them with a fox.
+130 I will not eat them in a house.
+131 I do not like them with a mouse.
+132 I do not like them here or there.
+133 I do not like them ANYWHERE
+135 I do not like green eggs and ham!
+137 I do not like them, Sam I am.
+139 You do not like them.
+
+on:
+72 Could you, would you, on a train?
+74 Not on a train! 
+99 Not on a train.
+118 Would you, could you, on a boat?
+120 I could not, would not, on a boat.
+123 I will not eat them on a train.
+159 And on a train.
+
+or:
+14 Would you like them here or there?
+16 I would not like them here or there.
+26 I do not like them here or there.
+38 I would not eat them here or there.
+63 I do not like them here or there.
+83 i will not eat them here or there.
+107 I will not eat them here or there.
+132 I do not like them here or there.
+
+rain:
+95 Would you, could you, in the rain?
+97 I would not, could not, in the rain.
+122 I will not eat them in the rain.
+157 And I will eat them in the rain.
+
+sam:
+1 I am Sam
+2 I am Sam
+3 Sam I am
+5 That Sam I am!
+6 That Sam I am!
+7 I do not like that Sam I am!
+11 I do not like them, Sam I am.
+19 I do not like them, Sam I am.
+29 I do not like them, Sam I am.
+41 I do not like them, Sam I am.
+66 I do not like them, Sam I am.
+77 Sam! Let me be!
+86 I do not like them, Sam I am.
+102 I do not like them, Sam, you see.
+112 I do not like them, Sam I am.
+137 I do not like them, Sam I am.
+146 Sam!
+153 I like them, Sam I am!
+173 Thank you, Sam I am!
+
+say:
+88 Say!
+140 So you say.
+144 Try them and you may, I say.
+150 Say!
+169 Say! I will eat them ANYWHERE!
+
+see:
+53 You will see.
+102 I do not like them, Sam, you see.
+148 You will see.
+162 They are so good, so good, you see!
+
+so:
+140 So you say.
+162 They are so good, so good, you see!
+164 So I will eat them in a box.
+171 I do so like green eggs and ham!
+
+thank:
+172 Thank you!
+173 Thank you, Sam I am!
+
+that:
+5 That Sam I am!
+6 That Sam I am!
+7 I do not like that Sam I am!
+
+the:
+89 In the dark?
+90 Here in the dark!
+91 Would you, could you, in the dark?
+93 I would not, could not, in the dark.
+95 Would you, could you, in the rain?
+97 I would not, could not, in the rain.
+98 Not in the dark. 
+122 I will not eat them in the rain.
+124 Not in the dark! 
+157 And I will eat them in the rain.
+158 And in the dark. 
+
+them:
+11 I do not like them, Sam I am.
+14 Would you like them here or there?
+16 I would not like them here or there.
+17 I would not like them anywhere.
+19 I do not like them, Sam I am.
+21 Would you like them in a house?
+22 Would you like them with a mouse?
+24 I do not like them in a house.
+25 I do not like them with a mouse.
+26 I do not like them here or there.
+27 I do not like them anywhere.
+29 I do not like them, Sam I am.
+31 Would you eat them in a box?
+32 Would you eat them with a fox?
+38 I would not eat them here or there.
+39 I would not eat them anywhere.
+41 I do not like them, Sam I am.
+46 Eat them! 
+47 Eat them!
+52 You may like them.
+54 You may like them in a tree!
+59 I do not like them in a box.
+60 I do not like them with a fox.
+61 I do not like them in a house.
+62 I do not like them with a mouse.
+63 I do not like them here or there.
+64 I do not like them anywhere.
+66 I do not like them, Sam I am.
+81 I will not eat them with a mouse.
+82 I will not eat them in a house.
+83 i will not eat them here or there.
+84 I will not eat them anywhere.
+86 I do not like them, Sam I am.
+102 I do not like them, Sam, you see.
+107 I will not eat them here or there.
+108 I do not like them anywhere!
+112 I do not like them, Sam I am.
+122 I will not eat them in the rain.
+123 I will not eat them on a train.
+128 I do not like them in a box.
+129 I do not like them with a fox.
+130 I will not eat them in a house.
+131 I do not like them with a mouse.
+132 I do not like them here or there.
+133 I do not like them ANYWHERE
+137 I do not like them, Sam I am.
+139 You do not like them.
+141 Try them! 
+142 Try them!
+144 Try them and you may, I say.
+147 If you will let me be, I will try them.
+153 I like them, Sam I am!
+154 And I would eat them in a boat.
+155 And I would eat them with a goat...
+157 And I will eat them in the rain.
+164 So I will eat them in a box.
+165 And I will eat them with a fox.
+166 And I will eat them in a house.
+167 And I will eat them with a mouse.
+168 And I will eat them here and there.
+169 Say! I will eat them ANYWHERE!
+
+there:
+14 Would you like them here or there?
+16 I would not like them here or there.
+26 I do not like them here or there.
+38 I would not eat them here or there.
+63 I do not like them here or there.
+83 i will not eat them here or there.
+107 I will not eat them here or there.
+132 I do not like them here or there.
+168 And I will eat them here and there.
+
+they:
+48 Here they are.
+162 They are so good, so good, you see!
+
+train:
+68 A train! 
+69 A train!
+70 A train! 
+71 A train!
+72 Could you, would you, on a train?
+74 Not on a train! 
+99 Not on a train.
+123 I will not eat them on a train.
+159 And on a train.
+
+tree:
+54 You may like them in a tree!
+56 I would not, could not in a tree.
+75 Not in a tree!
+101 Not in a tree.
+125 Not in a tree!
+161 And in a tree.
+
+try:
+141 Try them! 
+142 Try them!
+144 Try them and you may, I say.
+147 If you will let me be, I will try them.
+
+will:
+53 You will see.
+81 I will not eat them with a mouse.
+82 I will not eat them in a house.
+83 i will not eat them here or there.
+84 I will not eat them anywhere.
+107 I will not eat them here or there.
+121 I will not, will not, with a goat.
+122 I will not eat them in the rain.
+123 I will not eat them on a train.
+130 I will not eat them in a house.
+147 If you will let me be, I will try them.
+148 You will see.
+157 And I will eat them in the rain.
+164 So I will eat them in a box.
+165 And I will eat them with a fox.
+166 And I will eat them in a house.
+167 And I will eat them with a mouse.
+168 And I will eat them here and there.
+169 Say! I will eat them ANYWHERE!
+
+with:
+22 Would you like them with a mouse?
+25 I do not like them with a mouse.
+32 Would you eat them with a fox?
+35 Not with a fox.
+37 Not with a mouse.
+60 I do not like them with a fox.
+62 I do not like them with a mouse.
+80 I could not, would not, with a fox.
+81 I will not eat them with a mouse.
+105 Not with a mouse. 
+106 Not with a fox.
+114 Could you, would you with a goat?
+116 I would not, could not, with a goat!
+121 I will not, will not, with a goat.
+129 I do not like them with a fox.
+131 I do not like them with a mouse.
+155 And I would eat them with a goat...
+165 And I will eat them with a fox.
+167 And I will eat them with a mouse.
+
+would:
+14 Would you like them here or there?
+16 I would not like them here or there.
+17 I would not like them anywhere.
+21 Would you like them in a house?
+22 Would you like them with a mouse?
+31 Would you eat them in a box?
+32 Would you eat them with a fox?
+38 I would not eat them here or there.
+39 I would not eat them anywhere.
+40 I would not eat green eggs and ham.
+43 Would you? 
+50 I would not, could not, in a car.
+56 I would not, could not in a tree.
+72 Could you, would you, on a train?
+79 I would not, could not, in a box.
+80 I could not, would not, with a fox.
+91 Would you, could you, in the dark?
+93 I would not, could not, in the dark.
+95 Would you, could you, in the rain?
+97 I would not, could not, in the rain.
+114 Could you, would you with a goat?
+116 I would not, could not, with a goat!
+118 Would you, could you, on a boat?
+120 I could not, would not, on a boat.
+154 And I would eat them in a boat.
+155 And I would eat them with a goat...
+
+you:
+9 Do you like green eggs and ham?
+14 Would you like them here or there?
+21 Would you like them in a house?
+22 Would you like them with a mouse?
+31 Would you eat them in a box?
+32 Would you eat them with a fox?
+43 Would you? 
+44 Could you?
+52 You may like them.
+53 You will see.
+54 You may like them in a tree!
+57 Not in a car! You let me be!
+72 Could you, would you, on a train?
+91 Would you, could you, in the dark?
+95 Would you, could you, in the rain?
+102 I do not like them, Sam, you see.
+110 You do not like green eggs and ham?
+114 Could you, would you with a goat?
+118 Would you, could you, on a boat?
+127 You let me be!
+139 You do not like them.
+140 So you say.
+143 And you may.
+144 Try them and you may, I say.
+147 If you will let me be, I will try them.
+148 You will see.
+162 They are so good, so good, you see!
+172 Thank you!
+173 Thank you, Sam I am!
+
