@@ -1,7 +1,7 @@
 import re
 
 
-def split_file(file, encoding=None):
+def split_file(file: str, encoding: str = None) -> (list, set):
     with open(file, 'r', encoding=encoding) as smp_file:
         sample = smp_file.read().splitlines()
 
@@ -14,17 +14,21 @@ def split_file(file, encoding=None):
     return lines, dictionary
 
 
-def exclude(dictionary, exclude_words=None, exclude_file=None, encoding=None):
-    if exclude_words:
-        dictionary.difference_update(exclude_words)
+def exclude(dictionary: set, exclude_words: iter = None, file: str = None,
+            encoding: str = None) -> None:
+    if not exclude_words:
+        exclude_words = set()
 
-    if exclude_file:
-        with open(exclude_file, 'r', encoding=encoding) as exclusion:
-            dictionary.difference_update({word for line in exclusion for word
-                                          in re.split("[^a-z']", line.lower())})
+    if file:
+        with open(file, 'r', encoding=encoding) as excluding:
+            exclude_words = ({word for line in excluding.read().splitlines()
+                              for word in re.split("[^a-z']", line.lower())} |
+                             exclude_words)
+
+    dictionary.difference_update(exclude_words)
 
 
-def get_concordance(lines, dictionary, output=None):
+def get_concordance(lines: list, dictionary: set, output:str = None) -> None:
     if output:
         output = open(output, 'w')
 
@@ -40,7 +44,7 @@ def get_concordance(lines, dictionary, output=None):
 
 def main():
     lines, dictionary = split_file('sample/greenEggs.txt')
-    exclude(dictionary)
+    # exclude(dictionary, exclude_words={'a', 'of', 'the'})
     get_concordance(lines, dictionary, 'sample/greenEggsOutput.txt')
 
 
